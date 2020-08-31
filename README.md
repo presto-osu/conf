@@ -8,7 +8,6 @@
 | [ISSTA'21](https://conf.researchr.org/track/issta-2021/issta-2021-technical-papers) | Jan 29, 2021 | Apr 19, 2021 | Aarhus, Denmark | Jul 12-16, 2021 |
 
 Submit a [**new**](https://github.com/presto-osu/conf/edit/master/README.md) conference deadline.
-
 <button style="float:right" onclick="showmore()">Show previous conferences</button>
 
 <!-- Previous conferences -->
