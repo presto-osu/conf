@@ -7,8 +7,9 @@
 | [SANER'21](https://saner2021.shidler.hawaii.edu) | Oct 15 (abs) and Oct 22 (full), 2020 | Dec 14, 2020 | Virtual | Mar 9-12, 2021 |
 | [ISSTA'21](https://conf.researchr.org/track/issta-2021/issta-2021-technical-papers) | Jan 29, 2021 | Apr 19, 2021 | Aarhus, Denmark | Jul 12-16, 2021 |
 
-<button onclick="showmore()">Show previous conferences</button>
-<span style="float:right">Submit a <a href="https://github.com/presto-osu/conf/edit/master/README.md"><strong>new</strong></a> conference deadline.</span>
+Submit a [**new**](https://github.com/presto-osu/conf/edit/master/README.md) conference deadline.
+
+<button style="float:right" onclick="showmore()">Show previous conferences</button>
 
 <!-- Previous conferences -->
 
