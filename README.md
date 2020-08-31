@@ -51,7 +51,7 @@ function showmore() {
 </script>
 
 <style type="text/css">
-tr:nth-child(even) {
+tr:nth-child(odd) {
   background-color: #f2f2f2;
 }
 </style>
