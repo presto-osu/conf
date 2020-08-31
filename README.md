@@ -12,7 +12,7 @@
 <!-- Previous conferences -->
 <!-- <div style="display:none;margin-top:20px" id="previousconf"> -->
 
-{#previousconf}
+{: #previousconf}
 | Name               | Submission                            | Notification                    | Location               | Date                | Website                                                         |
 |--------------------|---------------------------------------|---------------------------------|------------------------|---------------------|-----------------------------------------------------------------|
 | ASE'20             | Apr 10 (abs) and Apr 17 (full), 2020  | Jul 3, 2020                     | Melbourne, Australia   | Sep 21-25, 2020     | https://a2i2.github.io/ase2020                                  |
@@ -37,8 +37,6 @@
 | ISSTA'19           | Jan 28, 2019                          | May 1, 2019                     | Beijing, China         | Jul 15-19, 2019     | https://conf.researchr.org/home/issta-2019                      |
 | ECOOP'19           | Jan 11, 2019                          | Apr 2, 2019                     | London, UK             | Jul 15-19, 2019     | https://2019.ecoop.org                                          |
 | PLDI'19            | Nov 16, 2018                          | Feb 15, 2019                    | Phoenix, AZ, USA       | Jun 24-26, 2019     | https://pldi19.sigplan.org                                      |
-
-</div>
 
 <script>
 function showmore() {
