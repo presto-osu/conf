@@ -10,8 +10,9 @@
 <button onclick="showmore()">Show previous conferences</button>
 
 <!-- Previous conferences -->
-<div style="display:none;margin-top:20px" id="previousconf">
+<!-- <div style="display:none;margin-top:20px" id="previousconf"> -->
 
+{#previousconf}
 | Name               | Submission                            | Notification                    | Location               | Date                | Website                                                         |
 |--------------------|---------------------------------------|---------------------------------|------------------------|---------------------|-----------------------------------------------------------------|
 | ASE'20             | Apr 10 (abs) and Apr 17 (full), 2020  | Jul 3, 2020                     | Melbourne, Australia   | Sep 21-25, 2020     | https://a2i2.github.io/ase2020                                  |
@@ -53,5 +54,9 @@ function showmore() {
 <style type="text/css">
 tr:nth-child(odd) {
   background-color: #f2f2f2;
+}
+#previousconf {
+  display: none;
+  margin-top: 20px;
 }
 </style>
