@@ -11,7 +11,7 @@
 
 <!-- Previous conferences -->
 
-{: #previousconf}
+{: #previousconf style="display:none;margin-top:20px;"}
 | Name | Submission | Notification | Location | Date |
 |-|-|-|-|-|
 | [USENIX Security'20](https://www.usenix.org/conference/usenixsecurity20) | Feb 15 (winter), 2020, 8:00 pm EDT | Mar 15 (early) and May 1, 2020 | Boston, MA, USA | Aug 12–14, 2020 |
@@ -27,10 +27,3 @@ function showmore() {
   }
 }
 </script>
-
-<style type="text/css">
-#previousconf {
-  display: none;
-  margin-top: 20px;
-}
-</style>
