@@ -27,9 +27,6 @@ function showmore() {
 </script>
 
 <style type="text/css">
-tr:nth-child(odd) {
-  background-color: #f2f2f2;
-}
 #previousconf {
   display: none;
   margin-top: 20px;
