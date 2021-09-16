@@ -1,6 +1,5 @@
 | Name | Submission | Notification | Location | Date |
 |-|-|-|-|-|
-| [ISSRE'21](http://www.wut-dscl.cn/issre/ISSRE2021.html) | May 1 (abs) and May 7 (full), 2021 | Jul 15, 2021 | Wuhan, China | Oct 25-28, 2021 |
 | [SANER'22](https://saner2022.uom.gr/) | Oct 14 (abs) and Oct 21 (full), 2021 | Dec 16, 2021 | Honolulu, Hawaii | Mar 15-18, 2021 |
 | [ICST'22](https://icst2022.vrain.upv.es/) | Sep 20 (abs) and Sep 27 (full), 2021 | Dec 6, 2021 | Virtual | Apr 4-13, 2021 |
 
@@ -13,6 +12,7 @@ Submit a [**new**](https://github.com/presto-osu/conf/edit/master/README.md) con
 {: #previousconf style="display:none;margin-top:20px;"}
 | Name | Submission | Notification | Location | Date |
 |-|-|-|-|-|
+| [ISSRE'21](http://www.wut-dscl.cn/issre/ISSRE2021.html) | May 1 (abs) and May 7 (full), 2021 | Jul 15, 2021 | Wuhan, China | Oct 25-28, 2021 |
 | [ISSTA'21](https://conf.researchr.org/track/issta-2021/issta-2021-technical-papers) | Jan 29, 2021 | Apr 19, 2021 | Aarhus, Denmark | Jul 12-16, 2021 |
 | [ECOOP'21](https://2021.ecoop.org/) | Jan 11, 2021 | Apr 1, 2021 | Aarhus, Denmark | Jul 12-16, 2021 |
 | [ASIACCS'21](https://asiaccs2021.comp.polyu.edu.hk) | Dec 11, 2020 | Feb 15, 2021 | Hong Kong, China | Jun 7-11, 2021 |
